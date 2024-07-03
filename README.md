@@ -3,7 +3,7 @@ Since the original [smtp-server](https://github.com/nodemailer/smtp-server) no l
 
 Should any updates or changes be made to the original smtp-server repository, those will be merged too if applicable.
 
-For existing issues on the original repository, for the chance that may have been fixed and to avoid being overwhelmed, I will only focus on issues opened in the forked repository (feel free to re-open existing issues under this repository!).
+For existing issues on the original repository, for the chance that they may have been already fixed, and to avoid being overwhelmed, I will only focus on issues opened in the forked repository (feel free to re-open existing issues under this repository!).
 
 ## Documentation
 At the moment this will be a bit of an iffy area since this is a new project, but as time will go on and enough significant changes/features are added I will create a copy of the smtp-server documentation to keep track of everything new as well.
